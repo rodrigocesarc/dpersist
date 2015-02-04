@@ -1,0 +1,36 @@
+*********************************** Dpersit exemplos ************************************
+
+ Pasta Dpersit - framework de persistencia ** Suporte a Firebird e Sql server, Precisa ser evoluido ***
+
+ uApuracaoIcmsClass - exemplo de objeto mapeado
+
+ uPersistController - Exemplo de um controller generico que utiliza o framework
+
+
+************************************* Dpersit ************************************
+
+ geradorClassesDelphi - App que le determinada tabela de um BD e
+                        gera a classe mapeada ou não. ** precisa ser evoluido, suporte a Firebird ** 
+
+
+******** **************************** Observações *********************************
+  
+  Atende as minhas nescessidades basicas, precisa ser evoluido para uso mais generico 
+  
+  Funcional no Delphi Xe2 - Precisa ser testado em versões superiores ou no Xe1.
+
+  Do jeito que esta pode ser evoluido para ouros bancos de dados, ou componentes de acesso, utilizando a interface uIquery do framework.
+
+  Para sua evolução é preciso refatorar a classe que gera o Sql dos objetos. Para que o Sql fique normalizado para Cada SGDB.
+  Tenho em mente mais ou menos o Desing para evolução do framework mais não tive tempo de fazer rss .
+
+
+  Falta documentação, versionamento etc.
+
+ 
+
+
+  
+
+ 
+ 
